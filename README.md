@@ -1,7 +1,7 @@
 # Study group
 
 
-install (stack)[https://docs.haskellstack.org/en/stable/README/]
+install [stack](https://docs.haskellstack.org/en/stable/README/)
 
 
 then
