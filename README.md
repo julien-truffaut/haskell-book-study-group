@@ -4,7 +4,7 @@
 ## Workflow
 
 1. Fork the repository by clicking on the fork button on github
-2. Clone **your** fork, e.g. here is [ashic](https://github.com/ashic)
+2. Clone **your** fork, for example here is ashic's fork
 ```
 git clone git@github.com:ashic/haskell-book-study-group.git
 ```
