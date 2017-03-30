@@ -6,13 +6,14 @@ someFunc :: IO ()
 someFunc = putStrLn "someFunc"
 
 
-
-
-
 -- length is a function that takes a list and returns a result that tells how many items are in the list.
 
 -- 1. Given the definition of length above, what would the type signature be? How many arguments, of what type does it take? What is the type of the result it evaluates to?
 
+
+awesome = ["Papuchon", "curry", ":)"]
+alsoAwesome = ["Quake", "The Simons"]
+allAwesome = [awesome, alsoAwesome]
 
 
 -- 2. What are the results of the following expressions?
