@@ -33,7 +33,7 @@ We will only put exercises in the upstream project, if you want to share answers
 install [stack](https://docs.haskellstack.org/en/stable/README/)
 
 ```
-cd ch04
+cd ch04; stack setup
 // open src/Lib.hs in your favorite editor
 
 stack build // to compile
